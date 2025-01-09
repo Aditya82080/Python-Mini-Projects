@@ -1,4 +1,4 @@
-# Calculator Application
+# Calculator 
 This repository contains a simple calculator application built using Python's tkinter library. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 # Description
