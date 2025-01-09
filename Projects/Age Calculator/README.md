@@ -6,10 +6,15 @@ The Age Calculator allows users to input their date of birth and calculates thei
 
 ## Features
 Input your date of birth in DD-MM-YYYY format.
+
 Calculates:
+
 Total years.
+
 Months since the last birthday.
+
 Days since the last month.
+
 Simple and user-friendly interface.
 
 ## Required Modules
