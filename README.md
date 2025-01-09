@@ -7,10 +7,11 @@ This repository is a collection of simple yet practical Python projects, showcas
 ## 🌟 Projects Included
 This repository contains a collection of Python mini projects. Below is a list of the projects included:
 
-| **No.** | **Name**              | **Description**                              | **Link** |  
-| ------- | --------------------- | -------------------------------------------- | -------- |  
-| **01**  | **Age Calculator**    | Calculate a person's age based on their date of birth. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Age%20Calculator) |  
-| **02**  | **Calculator**        | Perform basic arithmetic operations like addition, subtraction, multiplication, and division. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Calculator) |  
+| **No.** | **Name**             | **Description**                                      | **Link**                                                                 |
+| ------- | -------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ |
+| **01**  | **Age Calculator**    | Calculate your age based on your date of birth.      | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Age%20Calculator) |
+| **02**  | **Calculator**        | A basic calculator for performing arithmetic operations. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Calculator) |
+| **03**  | **Unit Converter**    | Convert between various units like temperature, length, and weight. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Unit%20Converter) |
 
 ---
 
