@@ -5,17 +5,12 @@ This repository contains a simple Age Calculator application built using Python.
 The Age Calculator allows users to input their date of birth and calculates their current age in years, months, and days. This is useful for determining one's exact age and can be used in various applications where precise age calculation is required.
 
 ## Features
-Input your date of birth in DD-MM-YYYY format.
-
-Calculates:
-
-Total years.
-
-Months since the last birthday.
-
-Days since the last month.
-
-Simple and user-friendly interface.
+- Input your date of birth in DD-MM-YYYY format.
+- Calculates:
+    - Total years.
+    - Months since the last birthday.
+    - Days since the last month.
+- Simple and user-friendly interface.
 
 ## Required Modules
 This script uses the standard Python library datetime. No additional modules are required to run this script.
