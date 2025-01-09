@@ -41,5 +41,13 @@ If Python is not installed, download and install it from python.org.
 
 ## How to Run the Script
 
+1. Clone the Repository:
+```bash
+git clone https://github.com/Aditya82080/Python-Mini-Projects.git
+cd Python-Mini-Projects/Projects/Unit Converter
+```
 
-
+2. Run the Script:
+```bash
+python unit_converter.py
+```
