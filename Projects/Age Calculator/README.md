@@ -1,5 +1,5 @@
 # Age Calculator
-This repository contains a simple Age Calculator application built using Python. The application calculates the age of a person in years, months, and days based on their date of birth.
+The Age Calculator is a simple Python project designed to calculate a person's age in years, months, and days based on their date of birth. It's a practical application of Python's `datetime` module, useful for learning how to work with dates and time in programming.
 
 ## Description
 The Age Calculator allows users to input their date of birth and calculates their current age in years, months, and days. This is useful for determining one's exact age and can be used in various applications where precise age calculation is required.
@@ -33,4 +33,3 @@ Since no additional modules are required, there is no need for installation of e
                python3 age_calculator.py
 
     ```
-
