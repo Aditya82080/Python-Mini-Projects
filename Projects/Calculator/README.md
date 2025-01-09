@@ -14,7 +14,7 @@ tkinter is included with Python by default. However, if you encounter any issues
 # How to Run the Script
 1. Clone the Repository:
    ```
-   git clone https://github.com/Aditya82080/Simple-Python-Mini-Projects.git
+   git clone https://github.com/Aditya82080/Python-Mini-Projects.git
    ```
 2. Navigate to Directory:
    ```bash 
