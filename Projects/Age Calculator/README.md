@@ -10,13 +10,17 @@ This script uses the standard Python library datetime. No additional modules are
 ## How to Install Required Modules
 Since no additional modules are required, there is no need for installation of external libraries. Ensure that you have Python installed on your system.
 
-## How to Run the Script
-
+##  How to Run the Script
 1. Clone the Repository:
-```bash 
-               cd age-calculator
-```
-2. Run the Script:
+   ```
+   git clone https://github.com/Aditya82080/Python-Mini-Projects.git
+   ```
+2. Navigate to Directory:
+   ```bash 
+          cd Python-Mini-Projects/Calculator
+   ```
+   
+3. Run the Script:
 ```bash 
                python3 age_calculator.py
 
