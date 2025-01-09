@@ -5,3 +5,4 @@ This repository is a collection of simple yet practical Python projects, showcas
 ---
 
 ## 🌟 Projects Included
+This repository contains a collection of Python mini projects. Below is a list of the projects included:
