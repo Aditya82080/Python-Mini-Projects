@@ -21,8 +21,8 @@ Since no additional modules are required, there is no need for installation of e
    ```
    
 3. Run the Script:
-```bash 
+    ```bash 
                python3 age_calculator.py
 
-```
+    ```
 
