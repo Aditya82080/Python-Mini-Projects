@@ -9,4 +9,4 @@ This repository contains a collection of Python mini projects. Below is a list o
 
 | **No.** | **Name** | **Description** | **Link** |  
 | ------- | -------- | --------------- | -------- |  
-| **03**  | **[Calculator](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Calculator)** | Perform basic arithmetic operations with an interactive interface. | [Explore](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Calculator) |  
+| **03**  | **[Calculator](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Calculator)** | Perform basic arithmetic operations with an interactive interface. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Calculator) |  
