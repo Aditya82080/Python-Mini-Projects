@@ -1,30 +1,39 @@
-# Expense Tracker
+# Rock, Paper, Scissors Game
 
 ## Description
 
-The Expense Tracker is a Python application designed to help you manage and track your expenses effectively. With this program, you can easily add, view, and delete expenses, ensuring that your financial records are always organized. The data is stored persistently in a text file (expenses.txt) for future reference.
-
+The Rock, Paper, Scissors Game is a simple Python application that allows users to play the classic game against the computer. The program randomly generates the computer's choice and compares it with the user's input to determine the winner. The user can play multiple rounds and choose to quit anytime.
 ## Features
 
-1. Add Expenses:
+1. User Choices:
 
-- Record expenses with details like date, description, amount, and category.
+- Rock, Paper, or Scissors.
 
-2. View Expenses:
+2. Computer's Random Choice:
 
-- Display all recorded expenses in a tabular format for quick review.
+- The computer randomly selects its choice using Python's random module.
 
-3. Delete Expenses:
+3. Outcome Determination:
 
-- Remove specific entries by selecting their index.
+- The program determines the winner based on the rules of the game:
 
-4. Persistent Storage:
+     - Rock crushes Scissors.
 
-- Automatically saves expenses to `expenses.txt`, ensuring your data remains available after restarting the application.
+     - Scissors cut Paper.
+
+     - Paper covers Rock.
+
+4. Replay Option:
+
+- The user can play multiple rounds and quit when desired.
+
+5. Interactive Feedback:
+
+- Clear instructions and results after each round.
 
 ## Required Modules
 
-This application uses Python's standard library and does not require any external modules.
+random: Used for generating the computer's random choice. This module is part of Python's standard library.
 
 ## How to Install Required Modules
 
@@ -44,64 +53,68 @@ If Python is not installed, download it from python.org.
 
 1. Download the Script:
 
-- Save the script as expense_tracker.py.
+- Save the script as `rock_paper_scissors.py`.
 
 2. Run the Script:
 
 - Open a terminal or command prompt.
 
-- Navigate to the directory where `expense_tracker.py` is saved.
+- Navigate to the directory where `rock_paper_scissors.py` is saved.
 
 - Execute the script:
 ```
-python expense_tracker.py
+python rock_paper_scissors.py
 ```
 or
 ```
-python3 expense_tracker.py
+python3 rock_paper_scissors.py
 ```
 
-3. Using the Application:
+3. Gameplay:
 
-- Follow the on-screen instructions to:
+- Follow the instructions to select your choice (1 for Rock, 2 for Paper, 3 for Scissors).
 
-     - Add a new expense.
+- The computer will display its choice.
 
-     - View the list of expenses.
-
-     - Delete an expense by specifying its index.
-
-- Exit the application when done. All data is saved automatically.
+- The result of the round will be displayed (Win, Lose, or Tie).Choose whether to play again or exit.
 
 
 ## Example Interaction
 ```bash
-Welcome to the Expense Tracker!
+Welcome to Rock, Paper, Scissors!
 
-Options:
-1. Add Expense
-2. View Expenses
-3. Delete Expense
-4. Exit
+Enter your choice:
+1. Rock
+2. Paper
+3. Scissors
+Your choice (1/2/3): 1
 
-Enter your choice: 1
-Enter the date (YYYY-MM-DD): 2025-01-09
-Enter description: Grocery shopping
-Enter amount: 50
-Enter category: Food
-Expense added successfully!
+You chose: Rock
+Computer chose: Scissors
+You win! Rock crushes Scissors.
 
-Options:
-1. Add Expense
-2. View Expenses
-3. Delete Expense
-4. Exit
+Do you want to play again? (y/n): y
 
-Enter your choice: 2
+Enter your choice:
+1. Rock
+2. Paper
+3. Scissors
+Your choice (1/2/3): 2
 
-Date        | Description     | Amount | Category
---------------------------------------------------
-2025-01-09  | Grocery shopping|    50 | Food
+You chose: Paper
+Computer chose: Rock
+You win! Paper covers Rock.
+
+Do you want to play again? (y/n): n
+Thanks for playing! Goodbye!
+
 ```
+## Enhancements
 
-## 
+- Add a scoring system to track wins, losses, and ties.
+
+- Include a graphical user interface (GUI) using `tkinter` or `PyGame`.
+
+- Extend to multiplayer mode.
+
+- Add more moves (e.g., Lizard and Spock from "Rock, Paper, Scissors, Lizard, Spock").
