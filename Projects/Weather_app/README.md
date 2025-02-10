@@ -15,7 +15,7 @@ The script takes a city name as input and retrieves the current weather informat
 
 1. Clone this repository to your local machine:
 ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/Aditya82080/Python-Mini-Projects/weather-app.git
 ```
 2. Navigate to the project directory:
 ```bash
