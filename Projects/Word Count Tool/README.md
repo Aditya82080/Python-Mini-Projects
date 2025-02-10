@@ -10,7 +10,7 @@ This Python script provides a basic functionality to count the number of words i
 ## Installation
 1. Clone the Repository:
 ```bash
-            git clone https://github.com/yourusername/word-count-tool.git
+            git clone https://github.com/Aditya82080/Python-Mini-Projects/word-count-tool.git
             cd word-count-tool
 ```
 2. No Additional Modules Required:
