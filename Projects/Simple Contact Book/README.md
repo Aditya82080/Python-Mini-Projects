@@ -19,8 +19,8 @@ No additional modules are required for this script. Ensure that Python is instal
 ## How to Run the Script
 1. Clone the Repository:
 ```bash
-                git clone https://github.com/yourusername/contact-book.git
-                cd contact-book
+git clone https://github.com/Aditya82080/Python-Mini-Projects.git
+cd Python-Mini-Projects/Projects/contact-book
 ```
 2. Run the Script:
 ```bash
