@@ -18,12 +18,12 @@ A simple command-line based Student Management System built using Python. This s
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/Aditya82080/Python-Mini-Projects.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd student-management-system
+cd Python-Mini-Projects/Projects/student-management-system
 ```
 3. Run the program:
 ```bash
