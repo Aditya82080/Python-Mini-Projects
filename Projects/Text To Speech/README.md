@@ -16,8 +16,8 @@ This application allows users to input text, select a language, and convert the 
 
 1. **Clone the repository:**
 ```bash
-    git clone https://github.com/yourusername/text-to-speech.git
-    cd text-to-speech
+   git clone https://github.com/Aditya82080/Python-Mini-Projects.git
+    cd Python-Mini-Projects/Projects/text-to-speech
 ```
 
 2. **Install the required Python modules:**
