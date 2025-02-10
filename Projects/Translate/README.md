@@ -16,12 +16,12 @@ The application allows users to enter text in one language and translate it to a
 
 1. Clone this repository to your local machine:
 ```bash
-    git clone https://github.com/yourusername/translator-app.git
+    git clone https://github.com/Aditya82080/Python-Mini-Projects.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-    cd translator-app
+    cd Python-Mini-Projects/Projects/translator-app
 ```
 
 3. Install the required Python modules:
