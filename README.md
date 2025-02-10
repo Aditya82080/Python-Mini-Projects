@@ -6,13 +6,23 @@ This repository is a collection of simple yet practical Python projects, showcas
 ## 🌟 Projects Included
 This repository contains a collection of Python mini projects. Below is a list of the projects included:
 
-| **No.** | **Name**                  | **Description**                                      | **Link** |  
-| ------- | ------------------------- | ---------------------------------------------------- | -------- |  
-| **01**  | **Age Calculator**        | Calculate your age based on your birth date.        | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Age%20Calculator) |  
-| **02**  | **Calculator**            | Perform basic arithmetic operations easily.         | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Calculator) |  
-| **03**  | **Expense Tracker**       | Track your daily expenses with categorization.      | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Expense%20Tracker) |  
-| **04**  | **Rock, Paper, Scissors** | Play the classic game against a computer opponent.  | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Rock%2C%20Paper%2C%20Scissors) |  
-| **05**  | **Unit Converter**        | Convert between units like length, weight, and more.| [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Unit%20Converter) |  
+| **No.** | **Name** | **Description** | **Link** |  
+| ------- | -------- | --------------- | -------- |  
+| **01**  | **[Age Calculator](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Age%20Calculator)** | Calculates a person's age based on their date of birth. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Age%20Calculator) |  
+| **02**  | **[Calculator](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Calculator)** | Performs basic arithmetic operations. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Calculator) |  
+| **03**  | **[Digital Whiteboard](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Digital%20White%20Board)** | A virtual whiteboard for drawing and sketching. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Digital%20White%20Board) |  
+| **04**  | **[Expense Tracker](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Expense%20Tracker)** | Tracks and manages daily expenses. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Expense%20Tracker) |  
+| **05**  | **[Rock, Paper, Scissors](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Rock%2C%20Paper%2C%20Scissors)** | Play the classic game against a computer. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Rock%2C%20Paper%2C%20Scissors) |  
+| **06**  | **[Simple Contact Book](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Simple%20Contact%20Book)** | Store and manage contacts with names and numbers. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Simple%20Contact%20Book) |  
+| **07**  | **[Snake Game](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Snake%20Game)** | A classic Snake game implementation in Python. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Snake%20Game) |  
+| **08**  | **[Student Management System](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Student%20Management%20System)** | Manages student records, including adding, editing, and deleting students. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Student%20Management%20System) |  
+| **09**  | **[To-Do List Application](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/TODO%20List%20Application)** | Organize tasks efficiently in a simple to-do list app. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/TODO%20List%20Application) |  
+| **10**  | **[Text to Speech](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Text%20To%20Speech)** | Converts text into spoken audio. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Text%20To%20Speech) |  
+| **11**  | **[Translate](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Translate)** | Translates text between different languages. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Translate) |  
+| **12**  | **[Unit Converter](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Unit%20Converter)** | Converts between different units like length, weight, and temperature. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Unit%20Converter) |  
+| **13**  | **[Weather App](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Weather_app)** | Displays real-time weather updates for any location. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Weather_app) |  
+| **14**  | **[Word Count Tool](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Word%20Count%20Tool)** | Counts words and characters in a given text input. | [Explore](https://github.com/Aditya82080/Python-Mini-Projects/tree/main/Projects/Word%20Count%20Tool) |  
+
 
 ---
 
