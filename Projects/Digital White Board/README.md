@@ -13,8 +13,8 @@ No additional modules need to be installed. Make sure Python is installed on you
 ## How to Run the Script
 1. Clone the Repository: 
 ```bash 
-           git clone https://github.com/yourusername/digital-whiteboard.git
-           cd digital-whiteboard
+git clone https://github.com/Aditya82080/Python-Mini-Projects.git
+cd Python-Mini-Projects/Projects/digital-whiteboard
 ```
 2. Run the Script:
 ```bash 
