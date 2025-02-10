@@ -12,8 +12,8 @@ The application provides basic functionality to manipulate tasks:
 ## Installation
 1. Clone the Repository:
 ```bash
-               git clone https://github.com/yourusername/todo-list.git
-               cd todo-list
+               git clone https://github.com/Aditya82080/Python-Mini-Projects.git
+               cd Python-Mini-Projects/Projects/todo-list
 ```
 2. No Additional Modules Required:
 This application only uses Python's standard library, so no additional modules need to be installed.
