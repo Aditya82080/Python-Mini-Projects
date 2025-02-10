@@ -15,14 +15,14 @@ This game allows users to control a snake to eat food, which makes the snake gro
 
 1. **Clone the repository:**
 ```bash
-              git clone https://github.com/yourusername/snake-game.git
-              cd snake-game
+git clone https://github.com/Aditya82080/Python-Mini-Projects.git
+cd Python-Mini-Projects/Projects/snake-game
 ```   
 
 2. **Install the required Python modules:**
 If you haven't installed Pygame, you can do so using pip:
 ```bash
-                pip install pygame 
+ pip install pygame 
 ```
 Pygame is required to run this game as it provides functionalities for graphics, sounds, and user inputs.
     
